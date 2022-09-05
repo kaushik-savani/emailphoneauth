@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393491977468",
+    "project_id": "emailauth-c2246",
+    "storage_bucket": "emailauth-c2246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393491977468:android:07a039d90e749b6f06f379",
+        "android_client_info": {
+          "package_name": "com.example.emailphoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393491977468-tegtg63i9nm56paue62t6kqaec4barc9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8hxHFZ7SXytk7GsGWNc0zAffJ5JQ5kNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393491977468-tegtg63i9nm56paue62t6kqaec4barc9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
